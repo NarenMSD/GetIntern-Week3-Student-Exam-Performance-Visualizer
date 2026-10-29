@@ -44,7 +44,7 @@
   2. Performance Distribution (Histograms)
 
   Visual:
-  ![Distribution](./images/distplot.png)
+  ![Distribution](./images/distribution.png)
 
   Technical Takeaways:
   - Trend: The Exam_Score distribution shows a roughly bell-shaped curve,
