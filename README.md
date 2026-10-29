@@ -81,7 +81,9 @@
   📂 Repository Structure
 
   ├── Student_Exam_Performance_Analysis.ipynb   # Main analysis notebook
+  
   ├── README.md                                 # Project documentation
+  
   └── images/                                   # (Optional) Folder
   containing the 3 charts
 
