@@ -8,8 +8,8 @@
 
   📌 Project Overview
 
-  This project is part of the Week 3 Milestone of the Practical Data Science
-  & Machine Learning Internship at GetIntern.in. The primary goal is to
+  This project is part of the Week 3 Milestone of the Practical Data Science 
+  Internship at GetIntern.in. The primary goal is to
   perform Exploratory Data Analysis (EDA) on student performance metrics to
   uncover patterns, identify statistical anomalies (outliers), and determine
   the relationship between study habits and academic success.
@@ -71,12 +71,9 @@
 
   🚀 How to Run the Project
 
-  1. Clone this repository:
-  git clone
-  https://github.com/NarenMSD/Student-Exam-Performance-Visualizer.git
-  2. Open the .ipynb file in Google Colab or Jupyter Notebook.
-  3. Run all cells sequentially to generate the synthetic dataset and the
-     visual reports.
+  1. Open the Student_Exam_Performance_Analysis.ipynb file.
+  2. Upload it to Google Colab.
+  3. Run all cells sequentially to reproduce the visualizations and findings.
 
   📂 Repository Structure
 
