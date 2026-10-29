@@ -29,7 +29,7 @@
   1. Outlier Identification (Boxplots)
 
   Visual:
-  (Insert your Boxplot image here - see tip below)
+  ![Boxplot](./images/boxplot.png)
 
   Technical Takeaways:
   - Detection: Using the Interquartile Range (IQR) method, data points
@@ -44,7 +44,7 @@
   2. Performance Distribution (Histograms)
 
   Visual:
-  (Insert your Distribution Plot image here)
+  ![Distribution](./images/distplot.png)
 
   Technical Takeaways:
   - Trend: The Exam_Score distribution shows a roughly bell-shaped curve,
@@ -59,7 +59,7 @@
   3. Feature Correlation (Heatmap)
 
   Visual:
-  (Insert your Heatmap image here)
+  ![Heatmap](./images/heatmap.png)
 
   Technical Takeaways:
   - Strongest Driver: A strong positive correlation was observed between
@@ -73,7 +73,7 @@
 
   1. Clone this repository:
   git clone
-  https://github.com/YOUR_USERNAME/Student-Exam-Performance-Visualizer.git
+  https://github.com/NarenMSD/Student-Exam-Performance-Visualizer.git
   2. Open the .ipynb file in Google Colab or Jupyter Notebook.
   3. Run all cells sequentially to generate the synthetic dataset and the
      visual reports.
@@ -87,7 +87,7 @@
   └── images/                                       # (Optional) Folder containing the 3 charts
 
   ---
-  Submitted by: [Your Name]
+  Submitted by: Narendra Mampa
   
   Internship Track: Data Science
   
