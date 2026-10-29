@@ -80,14 +80,15 @@
 
   📂 Repository Structure
 
-  ├── Student_Exam_Performance_Analysis.ipynb   # Main analysis notebook
+  ├── Student_Exam_Performance_Analysis.ipynb       # Main analysis notebook
   
-  ├── README.md                                 # Project documentation
+  ├── README.md                                     # Project documentation
   
-  └── images/                                   # (Optional) Folder
-  containing the 3 charts
+  └── images/                                       # (Optional) Folder containing the 3 charts
 
   ---
   Submitted by: [Your Name]
+  
   Internship Track: Data Science
+  
   Week: 03 Milestone
